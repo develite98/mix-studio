@@ -1,7 +1,7 @@
 # 4FX Studio
 
-Bản cài đặt 4FX Studio cho Windows.
+Windows installers for 4FX Studio.
 
-Tải bản mới nhất: [Releases](https://github.com/develite98/mix-studio/releases/latest) (file `4FXStudio_<phiên bản>_x64-setup.exe`).
+Download the latest version: [Releases](https://github.com/develite98/mix-studio/releases/latest) (the file `4FXStudio_<version>_x64-setup.exe`).
 
-Lần đầu cài, Windows có thể hiện "Windows protected your PC": bấm **More info › Run anyway**. Sau đó app tự cập nhật khi có bản mới.
+The first time, Windows may show "Windows protected your PC": click **More info › Run anyway**. After that the app updates itself when a new version is out.
